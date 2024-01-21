@@ -1,0 +1,21 @@
+isFourWheelDrive,priceRange,seniority,isAutomatic,fuelType
+false,5K to 10K,1,true,petrol
+true,5K to 10K,3,false,diesel
+false,over 10K,5,true,electric
+false,over 10K,1,true,petrol
+false,5K to 10K,3,true,diesel
+true,over 10K,5,false,electric
+false,0 to 5K,1,true,diesel
+true,5K to 10K,3,false,petrol
+true,over 10K,5,true,petrol
+true,0 to 5K,1,true,electric
+true,5K to 10K,3,true,electric
+true,over 10K,5,false,diesel
+false,0 to 5K,1,true,electric
+true,5K to 10K,3,false,electric
+false,over 10K,5,true,diesel
+false,0 to 5K,1,false,diesel
+false,5K to 10K,3,false,petrol
+true,over 10K,5,true,petrol
+false,0 to 5K,1,false,diesel
+true,5K to 10K,3,false,electric
